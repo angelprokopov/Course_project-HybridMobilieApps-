@@ -13,7 +13,7 @@
     {
       "title": "Sofware Installation Requests UE-Varna",
       "startDate": "2022",
-      "description": "Course project in the discipline Visual Programming with Java; it is a management system for classrooms at the university",
+      "description": "Курсов проект по дисциплината \"Визуално програмиране с Java\"; това е система за управление на учебни зали в университета",
       "url": "https://github.com/angelprokopov/Projects_VPJ_3rd_year_WS",
       "technologies": [
         {
@@ -29,7 +29,7 @@
     {
       "title": "Software installation requests",
       "startDate": "2022",
-      "description": "A course project in the discipline of Information Systems Design; it is a system for the management of classrooms at the university and the requests for software installation",
+      "description": "Курсов проект по дисциплината \"Проектиране на информационни системи\"; представлява система за управление на учебните зали в университета и заявки за инсталиране на софтуер.",
       "url": "https://github.com/angelprokopov/Projects_DIS_3rd_year_WS/tree/main/Course%20project",
       "technologies": [
         {
@@ -47,54 +47,51 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
+      "title": "Russia vs. Ukraine war, data analyse ",
+      "startDate": "2022",
+      "description": "Анализ на всички туитове, съдържащи ключови думи, свързани с войната между Русия и Украйна.. ",
+      "url": "https://github.com/angelprokopov/Data_Science_Projects/tree/main/Russia%20vs.%20Ukraine",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-python-plain-wordmark",
+          "name": "Python"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-pycharm-plain-wordmark",
+          "name": "PyCharm"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-numpy-original-wordmark",
+          "name": "NumPy"
+        }
+      ]
+    },
+    {
+      "title": "Apple Stock ",
+      "startDate": "2022",
+      "description": "Анализ на данните за акциите на Apple ",
+      "url": "https://github.com/angelprokopov/Data_Science_Projects/tree/main/Apple_Stock",
+      "technologies": [
+        {
+          "class": "devicon-python-plain-wordmark",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-pycharm-plain-wordmark",
+          "name": "PyCharm"
+        },
+        {
+          "class": "devicon-numpy-original-wordmark",
+          "name": "NumPy"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": [
-        "Angular 8/9/10"
-      ],
-      "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
-      ]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "Икономически университет - Варна",
+      "title": "Системен администратор",
+      "years": "09.2021 - 08.2022",
       "mainTech": [
         "Angular 7/8"
       ],
