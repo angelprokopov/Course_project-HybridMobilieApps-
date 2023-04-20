@@ -14,10 +14,6 @@
       "title": "Sofware Installation Requests UE-Varna",
       "startDate": "2022",
       "description": "Course project in the discipline Visual Programming with Java; it is a management system for classrooms at the university",
-      "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
-      ],
       "url": "https://github.com/angelprokopov/Projects_VPJ_3rd_year_WS",
       "technologies": [
         {
