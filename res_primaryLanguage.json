@@ -11,26 +11,22 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Sofware Installation Requests UE-Varna",
+      "startDate": "2022",
+      "description": "Course project in the discipline Visual Programming with Java; it is a management system for classrooms at the university",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
         "images/portfolio/animal-shelter/p2.jpg"
       ],
-      "url": "",
+      "url": "https://github.com/angelprokopov/Projects_VPJ_3rd_year_WS",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-java-plain-wordmark",
+          "name": "Java"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "SQL Server"
         }
       ]
     },
