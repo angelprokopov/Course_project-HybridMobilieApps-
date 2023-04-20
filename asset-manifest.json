@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Course_project-HybridMobilieApps-/static/css/main.031cb6cb.css",
-    "main.js": "/Course_project-HybridMobilieApps-/static/js/main.f400ea2b.js",
+    "main.js": "/Course_project-HybridMobilieApps-/static/js/main.f4de571f.js",
     "index.html": "/Course_project-HybridMobilieApps-/index.html",
     "main.031cb6cb.css.map": "/Course_project-HybridMobilieApps-/static/css/main.031cb6cb.css.map",
-    "main.f400ea2b.js.map": "/Course_project-HybridMobilieApps-/static/js/main.f400ea2b.js.map"
+    "main.f4de571f.js.map": "/Course_project-HybridMobilieApps-/static/js/main.f4de571f.js.map"
   },
   "entrypoints": [
     "static/css/main.031cb6cb.css",
-    "static/js/main.f400ea2b.js"
+    "static/js/main.f4de571f.js"
   ]
 }
